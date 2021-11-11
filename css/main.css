@@ -6,10 +6,10 @@ body {
 }
 .v1_2 {
   width: 100%;
-  height: 2800px;
+  height: 2746px;
   background: rgba(255,255,255,1);
   opacity: 1;
-  position: absolute;
+  position: relative;
   top: 0px;
   left: 0px;
   overflow: hidden;
@@ -112,8 +112,8 @@ body {
   width: 683px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 305px;
-  left: 1109px;
+  top: 283px;
+  left: 900px;
   font-family: Montserrat;
   font-weight: ExtraBold;
   font-size: 30px;
@@ -124,8 +124,8 @@ body {
   width: 500px;
   color: rgba(0,0,0,0.5);
   position: absolute;
-  top: 427px;
-  left: 1113px;
+  top: 416px;
+  left: 900px;
   font-family: Montserrat;
   font-weight: ExtraBold;
   font-size: 20px;
@@ -138,16 +138,16 @@ body {
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
-  top: 563px;
-  left: 1113px;
+  top: 553px;
+  left: 873px;
   overflow: hidden;
 }
 .v7_11 {
   width: 221px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 583px;
-  left: 1128px;
+  top: 565px;
+  left: 868px;
   font-family: Montserrat;
   font-weight: ExtraBold;
   font-size: 20px;
@@ -158,8 +158,8 @@ body {
   width: 503px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 869px;
-  left: 59px;
+  top: 863px;
+  left: 22px;
   font-family: Montserrat;
   font-weight: ExtraBold;
   font-size: 36px;
@@ -203,8 +203,8 @@ body {
   width: 672px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 963px;
-  left: 201px;
+  top: 960px;
+  left: 77px;
   font-family: Montserrat;
   font-weight: Regular;
   font-size: 20px;
@@ -230,7 +230,7 @@ body {
   opacity: 1;
   position: absolute;
   top: 2608px;
-  left: 278px;
+  left: 277px;
   overflow: hidden;
 }
 .v9_49 {
@@ -246,20 +246,20 @@ body {
   text-align: center;
 }
 .v9_51 {
-  width: 564px;
-  height: 317px;
+  width: 410px;
+  height: 298px;
   background: url("../images/v9_51.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 2382px;
-  left: 932px;
+  top: 2370px;
+  left: 701px;
   overflow: hidden;
 }
 .v14_1 {
-  width: 100%;
+  width: 842px;
   height: 642px;
   background: url("../images/v14_1.png");
   background-repeat: no-repeat;
@@ -280,34 +280,18 @@ body {
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 794px;
-  left: 907px;
+  top: 786px;
+  left: 618px;
   overflow: hidden;
 }
 .v26_1 {
-  width: 345px;
-  height: 374px;
+  width: 300px;
+  height: 279px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
   top: 1456px;
   left: 201px;
-  border: 1px solid rgba(0,0,0,1);
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
-  box-shadow: 5px 10px 4px rgba(0, 0, 0, 0.5);
-  overflow: hidden;
-}
-.v26_6 {
-  width: 345px;
-  height: 374px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 1899px;
-  left: 1201px;
   border: 1px solid rgba(0,0,0,1);
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
@@ -349,8 +333,8 @@ body {
   overflow: hidden;
 }
 .v26_2 {
-  width: 345px;
-  height: 374px;
+  width: 323px;
+  height: 279px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: absolute;
@@ -364,25 +348,9 @@ body {
   box-shadow: 5px 10px 4px rgba(0, 0, 0, 0.5);
   overflow: hidden;
 }
-.v26_3 {
-  width: 345px;
-  height: 374px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 1456px;
-  left: 1198px;
-  border: 1px solid rgba(0,0,0,1);
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
-  box-shadow: 5px 10px 4px rgba(0, 0, 0, 0.5);
-  overflow: hidden;
-}
 .v26_8 {
-  width: 288px;
-  height: 188px;
+  width: 252px;
+  height: 141px;
   background: url("../images/v26_8.png");
   background-repeat: no-repeat;
   background-position: center center;
@@ -401,20 +369,8 @@ body {
   width: 262px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 1712px;
-  left: 242px;
-  font-family: Montserrat;
-  font-weight: ExtraBold;
-  font-size: 24px;
-  opacity: 1;
-  text-align: center;
-}
-.v26_19 {
-  width: 262px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 2170px;
-  left: 1239px;
+  top: 1643px;
+  left: 223px;
   font-family: Montserrat;
   font-weight: ExtraBold;
   font-size: 24px;
@@ -445,24 +401,12 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v26_13 {
-  width: 262px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 1712px;
-  left: 1243px;
-  font-family: Montserrat;
-  font-weight: ExtraBold;
-  font-size: 24px;
-  opacity: 1;
-  text-align: center;
-}
 .v26_11 {
   width: 262px;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 1712px;
-  left: 741px;
+  top: 1663px;
+  left: 737px;
   font-family: Montserrat;
   font-weight: ExtraBold;
   font-size: 24px;
@@ -470,7 +414,7 @@ body {
   text-align: center;
 }
 .v27_1 {
-  width: 303px;
+  width: 264px;
   height: 180px;
   background: url("../images/v27_1.png");
   background-repeat: no-repeat;
@@ -480,23 +424,6 @@ body {
   position: absolute;
   top: 1487px;
   left: 721px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
-  overflow: hidden;
-}
-.v27_3 {
-  width: 293px;
-  height: 180px;
-  background: url("../images/v27_3.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1487px;
-  left: 1221px;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
@@ -531,23 +458,6 @@ body {
   position: absolute;
   top: 1936px;
   left: 732px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
-  overflow: hidden;
-}
-.v27_9 {
-  width: 317px;
-  height: 170px;
-  background: url("../images/v27_9.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1936px;
-  left: 1209px;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
